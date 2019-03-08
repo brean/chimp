@@ -2,5 +2,4 @@ language: java
 jdk: openjdk10
 
 script:
-  - ./gradlew run -Dexec.args="domains/ordered_domain.ddl problems/test_m_serve_coffee_problem_1.pdl"
-
+  - gradle test
