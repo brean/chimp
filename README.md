@@ -1,6 +1,8 @@
 CHIMP (Conflict-driven Hierarchical Meta-CSP Planner)
 =====================================================
 
+[![Build Status](https://travis-ci.org/brean/chimp.svg?branch=master)](https://travis-ci.org/brean/chimp)
+
 Summary
 -------
 
