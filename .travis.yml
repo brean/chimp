@@ -2,4 +2,4 @@ language: java
 jdk: openjdk10
 
 script:
-  - gradle test
+  - ./gradlew test
